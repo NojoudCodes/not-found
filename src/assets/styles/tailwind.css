@@ -1,0 +1,6 @@
+@import url('https://fonts.cdnfonts.com/css/gavency-free');
+@import url('https://fonts.cdnfonts.com/css/inter');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
